@@ -1,0 +1,25 @@
+{
+  "name": "letterboxd",
+  "version": "1.0.0",
+  "description": "Letterboxd API client library for node.js",
+  "license": "MIT",
+  "keywords": [
+    "letterboxd"
+  ],
+  "homepage": "https://github.com/desmondmorris/node-twitter",
+  "author": "Pedro Chamberlain <pedrochmatos@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrochamberlain/node-letterboxd"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "main": ".lib/letterboxd",
+  "dependencies": {
+    "commitizen": "^4.2.4"
+  }
+}
